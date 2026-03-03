@@ -430,6 +430,12 @@ body{
 
 }
 
+/* ---------------- BLOG CONTENT ---------------- */
+.blog-content{
+
+}
+
+/* ------------------------------------------------*/
 /* OPEN STATE(SINGLE SOURCE OF TRUTH) */
 .nav-links.open{
   transform: translateX(0);
