@@ -488,7 +488,7 @@ body{
 
 .comment-form input,textarea {
   width: 100%;
-  padding: 1rem 0;
+  padding: 1rem;
   border: none;
   outline: none;
   margin: 1rem 0;
@@ -499,9 +499,14 @@ body{
   margin-top: 3rem;
   display: flex;
   flex-direction: column;
-  border: 1px solid var(--text-gray);
+  border: 1px solid rgb(202, 202, 202);
   padding: 1rem;
 }
+
+.comment-box p{
+  color: rgb(202, 202, 202);
+}
+
 
 .comment-btn{
   border: 1px solid var(--accent-color);
