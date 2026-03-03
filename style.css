@@ -486,21 +486,20 @@ body{
   color: var(--text-gray);
 }
 
-.comment-box{
-  display: flex;
-  flex-direction: column;
-  border: 1px solid var(--text-gray);
-  padding: 1rem;
-}
-
 .comment-form input,textarea {
   width: 100%;
   padding: 1rem 0;
   border: none;
   outline: none;
-  padding: 1rem;
   margin: 1rem 0;
   background: gray;
+}
+
+.comment-box{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--text-gray);
+  padding: 1rem;
 }
 
 .comment-btn{
