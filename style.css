@@ -478,6 +478,14 @@ body{
 
 .comment-box{
   text-align: center;
+  border: 1px solid var(--text-gray);
+}
+
+.comment-form input,textarea {
+  border: none;
+  outline: none;
+  padding: 1rem;
+  background: var(--accent-color);
 }
 
 /* ------------------------------------------------*/
