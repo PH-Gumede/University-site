@@ -192,12 +192,12 @@ body{
 /* ---------------- COMPONENTS ---------------- */
 .section {
   padding: 2rem 1rem;
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 .main-div {
   padding: 1rem;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
   display: flex;
   flex-direction: column;
 }
