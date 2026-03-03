@@ -496,6 +496,7 @@ body{
 }
 
 .comment-box{
+  margin-top: 3rem;
   display: flex;
   flex-direction: column;
   border: 1px solid var(--text-gray);
