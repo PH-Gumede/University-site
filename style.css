@@ -492,6 +492,11 @@ body{
   background: var(--accent-color);
 }
 
+.comment-btn{
+  border-color: var(--accent-color);
+  background: none;
+}
+
 /* ------------------------------------------------*/
 /* OPEN STATE(SINGLE SOURCE OF TRUTH) */
 .nav-links.open{
