@@ -443,7 +443,7 @@ body{
 }
 
 .blog-left h2{
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .blog-left img{
@@ -452,7 +452,7 @@ body{
   object-fit: cover;
   object-position: center;
   aspect-ratio: 3 / 4;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .blog-right div{
@@ -474,6 +474,10 @@ body{
 
 .blog-right p{
   color: var(--text-gray);
+}
+
+.comment-box{
+  text-align: center;
 }
 
 /* ------------------------------------------------*/
