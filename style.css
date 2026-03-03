@@ -467,7 +467,7 @@ body{
 .blog-right div{
   display: flex;
   align-items: center;
-  padding-bottom: 1rem;
+  padding-bottom: 1rem 10px 0;
   justify-content: space-between;
 }
 
