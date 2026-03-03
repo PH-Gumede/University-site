@@ -431,7 +431,7 @@ body{
 /* ---------------- BLOG CONTENT ---------------- */
 .blog-content{
   display: grid;
-  grid-template-columns: 65% 35%;
+  grid-template-columns: 2fr 1fr;
   gap: 2rem;
 }
 
@@ -455,9 +455,6 @@ body{
   margin-bottom: 1rem;
 }
 
-.blog-right{
-  overflow: hidden;
-}
 
 .blog-right h3{
   background: var(--accent-color);
