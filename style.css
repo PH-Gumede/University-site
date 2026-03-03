@@ -386,6 +386,10 @@ body{
   text-align: center;
 }
 
+.footer h4{
+  margin-bottom: 1rem;
+}
+
 .tag{
   text-align: center;
   color: gray;
