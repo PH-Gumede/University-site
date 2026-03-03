@@ -456,9 +456,6 @@ body{
   aspect-ratio: 16 / 9;
   margin-bottom: 1rem;
 }
-.blog-right{
-  padding: 1rem;
-}
 
 .blog-right h3{
   background: var(--accent-color);
