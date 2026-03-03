@@ -455,6 +455,10 @@ body{
   margin-bottom: 1rem;
 }
 
+.blog-right{
+  overflow: hidden;
+}
+
 .blog-right h3{
   background: var(--accent-color);
   color: var(--text-color);
