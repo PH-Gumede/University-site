@@ -501,7 +501,14 @@ body{
 
 .comment-btn{
   border: 1px solid var(--accent-color);
+  color: var(--accent-color);
   background: none;
+}
+
+.comment-btn:hover{
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  color: var(--text-color);
 }
 
 /* ------------------------------------------------*/
