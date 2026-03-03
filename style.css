@@ -452,7 +452,7 @@ body{
   object-fit: cover;
   border-radius: 10px;
   object-position: center;
-  aspect-ratio: 9 / 16;
+  aspect-ratio: 3 / 4;
   margin-bottom: 1rem;
 }
 
