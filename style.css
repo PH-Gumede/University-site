@@ -476,7 +476,7 @@ body{
   text-align: center;
 }
 
-.blog-right p{
+.blog-right span{
   color: var(--text-gray);
 }
 
