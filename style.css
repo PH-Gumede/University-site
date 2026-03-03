@@ -488,8 +488,8 @@ body{
 .comment-box{
   display: flex;
   flex-direction: column;
-  text-align: center;
   border: 1px solid var(--text-gray);
+  padding: 1rem;
 }
 
 .comment-form input,textarea {
@@ -498,6 +498,7 @@ body{
   border: none;
   outline: none;
   padding: 1rem;
+  margin: 1rem 0;
   background: var(--text-gray);
 }
 
