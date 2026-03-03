@@ -455,7 +455,10 @@ body{
   margin-bottom: 1rem;
 }
 
-.blog-right{
+.blog-right div{
+  display: flex;
+  align-items: center;
+  padding-bottom: 1rem;
   justify-content: space-between;
 }
 
