@@ -468,7 +468,7 @@ body{
 .blog-right div{
   display: flex;
   align-items: center;
-  padding-bottom: 1rem 10px 0;
+  padding: 1rem 10px 0;
   justify-content: space-between;
 }
 
@@ -492,7 +492,7 @@ body{
   border: none;
   outline: none;
   margin: 1rem 0;
-  background: gray;
+  background: rgb(202, 202, 202);
 }
 
 .comment-box{
