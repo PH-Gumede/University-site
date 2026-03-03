@@ -434,7 +434,7 @@ body{
 .blog-content{
   display: grid;
   grid-template-columns: 65% 35%;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .blog-left{
@@ -453,8 +453,11 @@ body{
   object-fit: cover;
   border-radius: 10px;
   object-position: center;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 16 / 9;
   margin-bottom: 1rem;
+}
+.blog-right{
+  padding: 1rem;
 }
 
 .blog-right h3{
