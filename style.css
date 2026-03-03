@@ -302,11 +302,9 @@ body{
   object-fit: cover;
   border-radius: 10px;
   object-position: center;
+  margin-bottom: 1rem;
 }
 
-.facilities-image-text{
-  margin-top: 1rem;
-}
 
 /* ---------------- TESTIMONIALS ---------------- */
 .testimonials-card{
