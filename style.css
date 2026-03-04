@@ -521,15 +521,18 @@ body{
 }
 
 /* ---------------- CONTACT PAGE ---------------- */
-.contact-us{
+.map{
   justify-content: center;
   align-items: center;
 }
 
-.contact-us iframe{
+.map iframe{
   width: 100%;
 }
 
+.contact{
+  justify-content: center;
+}
 
 /* ------------------------------------------------*/
 /* OPEN STATE(SINGLE SOURCE OF TRUTH) */
