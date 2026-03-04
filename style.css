@@ -486,7 +486,7 @@ body{
   color: var(--text-gray);
 }
 
-.comment-form input,textarea {
+.comment-form input, .comment-form textarea {
   width: 100%;
   padding: 1rem;
   border: none;
@@ -558,7 +558,7 @@ body{
   color: var(--text-gray);
 }
 
-.contact-form input,textarea {
+.contact-form input, .contact-form textarea {
   width: 100%;
   padding: 1rem;
   border: 1px solid gray;
