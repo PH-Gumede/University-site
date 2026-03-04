@@ -436,7 +436,7 @@ body{
 /* ---------------- BLOG PAGE ---------------- */
 .blog-content{
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr;
   gap: 2rem;
 }
 
@@ -536,7 +536,7 @@ body{
 
 .contact{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
 }
 
 .contact-left div{
@@ -644,5 +644,11 @@ body{
   }
   .about-image{
     flex: 1;
+  }
+  .blog-content{
+    grid-template-columns: 2fr 1fr;
+  }
+  .contact{
+    grid-template-columns: 1fr 1fr;
   }
 }
