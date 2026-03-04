@@ -561,7 +561,7 @@ body{
 .contact-form input,textarea {
   width: 100%;
   padding: 2rem;
-  border: none;
+  border: 1px solid gray;
   margin: 1rem 0;
   background: none;
 }
