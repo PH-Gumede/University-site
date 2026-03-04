@@ -558,6 +558,14 @@ body{
   color: var(--text-gray);
 }
 
+.contact-form input,textarea {
+  width: 100%;
+  padding: 2rem;
+  border: none;
+  outline: none;
+  margin: 1rem 0;
+  background: none;
+}
 /* ------------------------------------------------*/
 /* OPEN STATE(SINGLE SOURCE OF TRUTH) */
 .nav-links.open{
