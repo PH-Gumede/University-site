@@ -504,10 +504,9 @@ body{
   padding: 1rem;
 }
 
-.comment-box p{
-  color: rgb(202, 202, 202);
+.comment-box h3{
+  color: var(--text-gray);
 }
-
 
 .comment-btn{
   border: 1px solid var(--accent-color);
