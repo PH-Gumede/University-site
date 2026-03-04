@@ -530,8 +530,17 @@ body{
   width: 100%;
 }
 
-.contact{
-  justify-content: center;
+.contact div{
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.contact div .fa{
+  font-size: 28px;
+  color: var(--accent-color);
+  margin: 10px;
+  margin-right: 30px;
 }
 
 /* ------------------------------------------------*/
