@@ -433,7 +433,7 @@ body{
 
 }
 
-/* ---------------- BLOG CONTENT ---------------- */
+/* ---------------- BLOG PAGE ---------------- */
 .blog-content{
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -519,6 +519,17 @@ body{
   border-color: var(--accent-color);
   color: var(--text-color);
 }
+
+/* ---------------- CONTACT PAGE ---------------- */
+.contact-us{
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-us iframe{
+  width: 100%;
+}
+
 
 /* ------------------------------------------------*/
 /* OPEN STATE(SINGLE SOURCE OF TRUTH) */
