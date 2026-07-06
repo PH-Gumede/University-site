@@ -9,6 +9,7 @@
     --text-color: white;
     --ff: "Poppins", sans-serif;
     --accent-color: hsl(4, 90%, 58%);
+    --accent-lighter: hsl(4, 90%, 72%);
     --h1-size: 36px; /* Standard Sizing*/ 
     --bg-dark: gray; 
     --text-gray: hsl(0, 0%, 30%);
@@ -382,6 +383,9 @@ body{
   text-decoration: none;
   color: var(--accent-color);
 }
+.icons a:hover{
+  color: var(--accent-lighter);
+}
 .footer{
   text-align: center;
 }
@@ -395,6 +399,13 @@ body{
   color: gray;
   margin-top: 3rem;
   font-size: 12px;
+}
+.tag a{
+  text-decoration: none;
+  color: var(--accent-color);
+}
+.tag a:hover{
+  color: var(--accent-lighter);
 }
 
 /* ---------------- ABOUT PAGE ---------------- */
