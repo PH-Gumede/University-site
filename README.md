@@ -21,13 +21,13 @@ This project is a fictional university website ("Eduford University") built to p
 
 ## Features
 
-- 🧭 **Five-page site** — Home, About, Courses, Blog, and Contact, each sharing a consistent header and footer.
-- 📱 **Mobile navigation** — a hamburger menu opens a full navigation overlay on smaller screens, with an overlay backdrop that closes the menu when tapped.
-- ♿ **Accessible nav markup** — the navigation uses `aria-expanded`, `aria-hidden`, and `aria-controls` attributes that are correctly toggled by JavaScript as the menu opens and closes.
-- 🖼️ **Content sections** — course offerings, a "Global Campus" showcase (London, New York, Washington), a facilities grid, and star-rated student testimonials.
-- ⭐ **Rating display** — testimonials use Material Symbols icons (`star` / `star_half`) to render partial-star ratings.
-- ✉️ **Contact form** — a structured contact form (name, email, subject, message) with HTML5 `required` attributes on every field.
-- 📐 **Responsive layout** — a dedicated tablet/desktop breakpoint adjusts the layout for larger screens.
+-  **Five-page site** — Home, About, Courses, Blog, and Contact, each sharing a consistent header and footer.
+-  **Mobile navigation** — a hamburger menu opens a full navigation overlay on smaller screens, with an overlay backdrop that closes the menu when tapped.
+-  **Accessible nav markup** — the navigation uses `aria-expanded`, `aria-hidden`, and `aria-controls` attributes that are correctly toggled by JavaScript as the menu opens and closes.
+-  **Content sections** — course offerings, a "Global Campus" showcase (London, New York, Washington), a facilities grid, and star-rated student testimonials.
+-  **Rating display** — testimonials use Material Symbols icons (`star` / `star_half`) to render partial-star ratings.
+-  **Contact form** — a structured contact form (name, email, subject, message) with HTML5 `required` attributes on every field.
+-  **Responsive layout** — a dedicated tablet/desktop breakpoint adjusts the layout for larger screens.
 
 ## Screenshots / Demo
 
